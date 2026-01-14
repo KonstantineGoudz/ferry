@@ -14,7 +14,7 @@ dependencies:
   gql: '>=0.14.0 <2.0.0'
   gql_code_builder: 
     git:
-      url: https://github.com/KonstantineGoudz/gql.githttps://github.com/KonstantineGoudz/gql.githttps://github.com/KonstantineGoudz/gql.githttps://github.com/KonstantineGoudz/gql.git
+      url: https://github.com/KonstantineGoudz/gql.git
       ref: master
       path: codegen/gql_code_builder
   gql_code_builder_serializers: ^0.1.0
